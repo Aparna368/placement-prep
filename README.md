@@ -1,15 +1,4 @@
-# 🎓 EduSphere: Interactive Learning Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js Version](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-18.0+-blue)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-4.0+-blue)](https://www.typescriptlang.org/)
-
-> **Empowering careers through interactive placement preparation**
-
-EduSphere is a comprehensive, modern e-learning platform specifically designed for placement preparation. Built with cutting-edge technologies, it provides an immersive learning experience that bridges the gap between academic knowledge and industry requirements.
-
----
 
 ## 📋 Table of Contents
 
